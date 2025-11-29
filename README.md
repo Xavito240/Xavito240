@@ -48,10 +48,6 @@ I love building systems that are **automated**, **secure**, **reliable**, and wi
 
 ---
 
-# 🔧 **Featured Project — Woolshy**
-
-### 🚀 A modern anime-tech SaaS for SMB IT teams  
-**IT ticketing • Asset management • Remote support**
 
 🧠 **Tech Stack:**  
 TypeScript · Node.js · Next.js · Prisma · CI/CD DevOps pipelines
